@@ -58,11 +58,18 @@ Vai no médico, porque teu Alzheimer tá brabo.
 Não vem com essa, não vai aprender a se defender hackeando conta de ninguém. 🙅‍♂️
 
 > 8° - Quer proteger sua conta?
->• Coloque dados verdadeiros no cadastro, pra caso esqueça a senha. Assim facilita pro suporte. 📝
->• Use uma senha forte. 🔐
->• Use autenticação de 2 fatores se o site/app oferecer isso. 🔒
->• Não compartilhe sua conta com ninguém. 🙅‍♀️
->• Cuidado com os links que os outros compartilham com você. 🌐
->• Se você realmente tem dificuldade de decorar as coisas, anota num caderninho e deixe num local seguro. 📒
+ 
+> Coloque dados verdadeiros no cadastro, pra caso esqueça a senha. Assim facilita pro suporte. 📝
+
+> Use uma senha forte. 🔐
+ 
+> Use autenticação de 2 fatores se o site/app oferecer isso. 🔒
+ 
+> Não compartilhe sua conta com ninguém. 🙅‍♀️
+ 
+> Cuidado com os links que os outros compartilham com você. 🌐
+ 
+> Se você realmente tem dificuldade de decorar as coisas, anota num caderninho e deixe num local seguro. 📒
+
 
 ### Ass: @K9.pks 😎
