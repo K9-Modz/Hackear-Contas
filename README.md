@@ -57,7 +57,7 @@ Vai no médico, porque teu Alzheimer tá brabo.
 > 7º - Ah mas quero aprender a me defender:
 Não vem com essa, não vai aprender a se defender hackeando conta de ninguém. 🙅‍♂️
 
-> 8° - Quer proteger sua conta?
+### 🔐 8° - Quer proteger sua conta? 🔐
  
 > Coloque dados verdadeiros no cadastro, pra caso esqueça a senha. Assim facilita pro suporte. 📝
 
