@@ -46,7 +46,7 @@ Apaixonado por tecnologia, e por mudar a vida das pessoas através da programaç
 
 <script>
   document.addEventListener("DOMContentLoaded", function(event) {
-    document.querySelector("a[href^='http']").forEach(function(element) {
+    document.querySelectorAll("a[href^='http']").forEach(function(element) {
       element.setAttribute("rel", "noopener noreferrer");
       element.setAttribute("target", "_blank");
     });
